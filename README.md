@@ -1,16 +1,43 @@
-### Hi there 👋
+## Hi, I'm Kunal Haryani!
 
-<!--
-**kunalramharyani/kunalramharyani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="129" width="190">
+<p><em>Software Engineering Grad Student at the<a href="https://www.umd.edu/"> University of Maryland, College Park</a></em></p>
 
-Here are some ideas to get you started:
+[![LinkedIn: kunal-haryani](https://img.shields.io/badge/-kunalharyani-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/kunal-haryani/)](https://www.linkedin.com/in/kunal-haryani/)
+[![GitHub: kunalramharyani](https://img.shields.io/badge/-kunalramharyani-lightgrey?style=social&logo=GitHub&logoColor=black&link=https://github.com/kunalramharyani)](https://github.com/kunalramharyani)
+[![Website: kunalramharyani](https://img.shields.io/badge/-kunalramharyani.netlify.app-brightgreen?style=flat&logo=Netlify&logoColor=black&link=https://kunalramharyani.netlify.app/)](https://kunalramharyani.netlify.app/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+```javascript
+const kunal = {
+  pronouns: "he" | "him" | "his",
+  education: [
+    "BE Computer Science @ BITS Pilani, Dubai Campus",
+    "ME Software Engineering @ University of Maryland, College Park",
+  ],
+  languages: [HTML5, CSS3, Javascript, Typescript, Python, MySQL, C],
+  packages: [
+    Bootstrap,
+    jQuery,
+    MongoDB,
+    Express,
+    EJS,
+    React,
+    Node,
+    Mocha,
+    Chai,
+  ],
+  other: ["linux", "git", "oop", "functional programming"],
+  experience: {
+    intern: "SOL Analytics, Dubai",
+  },
+  projects: "Check out my" + " GitHub | Website",
+  achievement:
+    "1st place at the ACM x MLH hackathon sponsored by GitHub @ BITS Pilani, Dubai Campus",
+};
+```
+
+<p><em>I am currently looking for summer 2023 software engineering internships, feel free to contact me regarding any relevant opportunities or just to say hi!</em></p>
+
+---
