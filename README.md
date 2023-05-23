@@ -31,6 +31,7 @@ const kunal = {
   other: ["linux", "git", "oop", "functional programming"],
   experience: {
     intern: "SOL Analytics, Dubai",
+    intern: "Amtrak",
   },
   projects: "Check out my" + " GitHub | Website",
   achievement:
@@ -38,6 +39,6 @@ const kunal = {
 };
 ```
 
-<p><em>I am currently looking for summer 2023 software engineering internships, feel free to contact me regarding any relevant opportunities or just to say hi!</em></p>
+<p><em>I am always looking for full time software engineering opportunities, feel free to contact me regarding any relevant openings or just to say hi!</em></p>
 
 ---
