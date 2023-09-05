@@ -16,7 +16,7 @@ const kunal = {
     "BE Computer Science @ BITS Pilani, Dubai Campus",
     "ME Software Engineering @ University of Maryland, College Park",
   ],
-  languages: [HTML5, CSS3, Javascript, Typescript, Python, MySQL, C],
+  languages: [HTML5, CSS3, Javascript, Typescript, Python, Java, MySQL, C],
   packages: [
     Bootstrap,
     jQuery,
@@ -24,6 +24,7 @@ const kunal = {
     Express,
     EJS,
     React,
+    Angular,
     Node,
     Mocha,
     Chai,
@@ -31,7 +32,7 @@ const kunal = {
   other: ["linux", "git", "oop", "functional programming"],
   experience: {
     intern: "SOL Analytics, Dubai",
-    intern: "Amtrak",
+    intern: "Amtrak, Washington DC",
   },
   projects: "Check out my" + " GitHub | Website",
   achievement:
