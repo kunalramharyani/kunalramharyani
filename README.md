@@ -29,7 +29,7 @@ const kunal = {
     Mocha,
     Chai,
   ],
-  other: ["linux", "git", "oop", "functional programming"],
+  other: ["linux", "git", "oop", "functional programming", "agile software development"],
   experience: {
     intern: "SOL Analytics, Dubai",
     intern: "Amtrak, Washington DC",
@@ -37,6 +37,7 @@ const kunal = {
   projects: "Check out my" + " GitHub | Website",
   achievement:
     "1st place at the ACM x MLH hackathon sponsored by GitHub @ BITS Pilani, Dubai Campus",
+    "Mentored teams competing in Technica, the world's largest hackathon for underrepresented genders in tech",
 };
 ```
 
