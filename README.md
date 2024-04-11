@@ -13,7 +13,7 @@
 const kunal = {
   pronouns: "he" | "him" | "his",
   education: [
-    "BE Computer Science @ BITS Pilani, Dubai Campus",
+    "BE Computer Science @ BITS Pilani",
     "ME Software Engineering @ University of Maryland, College Park",
   ],
   languages: [HTML5, CSS3, Javascript, Typescript, Python, Java, MySQL, C],
