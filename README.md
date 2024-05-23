@@ -1,6 +1,6 @@
 ## Hi, I'm Kunal Haryani!
 
-<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="129" width="190">
+<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="80" width="190">
 
 [![LinkedIn: kunal-haryani](https://img.shields.io/badge/-kunalharyani-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/kunal-haryani/)](https://www.linkedin.com/in/kunal-haryani/)
 [![GitHub: kunalramharyani](https://img.shields.io/badge/-kunalramharyani-lightgrey?style=social&logo=GitHub&logoColor=black&link=https://github.com/kunalramharyani)](https://github.com/kunalramharyani)
