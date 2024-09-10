@@ -23,6 +23,7 @@ const kunal = {
     Express,
     EJS,
     React,
+    Next.js,
     Angular,
     Node,
     Mocha,
