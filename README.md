@@ -33,6 +33,7 @@ const kunal = {
   experience: {
     intern: "SOL Analytics, Dubai",
     intern: "Amtrak, Washington DC",
+    "Software Engineer": "Amazon",
   },
   projects: "Check out my" + " GitHub | Website",
   achievement:
